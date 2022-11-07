@@ -1,2 +1,0 @@
-# Project name
- # Proyecto PlanetaTierra
